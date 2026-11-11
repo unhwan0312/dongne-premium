@@ -29,18 +29,11 @@
 
 ## 🎬 시연 영상
 
+https://github.com/user-attachments/assets/c6bc7acf-92a6-4489-9989-1d6f6a07798a
+
 <div align="center">
 
-<!--
-  ▼ 인라인 재생 영상 넣는 법
-  GitHub 웹에서 이 README를 편집(연필 아이콘) → docs/demo/demo.mp4 파일(6.9MB)을 아래 빈 줄에 끌어다 놓기
-  → 자동으로 생기는 https://github.com/user-attachments/assets/... 주소 한 줄만 남기고 커밋하면 README 안에서 바로 재생됩니다.
--->
-
-
-[![동네 프리미엄 시연 영상](docs/demo/thumbnail.png)](docs/demo/demo.mp4)
-
-*▲ 이미지를 누르면 시연 영상(2분 3초)으로 이동합니다 · 고객 페르소나 "김지현 씨(38세, 초등학생 자녀 1명)"의 집 찾기 시나리오*
+*▲ 시연 영상 (2분 3초) · 고객 페르소나 "김지현 씨(38세, 초등학생 자녀 1명)"의 집 찾기 시나리오*
 
 </div>
 
